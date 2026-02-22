@@ -1,0 +1,39 @@
+site_name: Mahija Verma
+site_description: Model-Based Developer | MATLAB | Embedded Engineer
+site_author: Mahija Verma
+
+theme:
+  name: material
+  language: en
+  features:
+    - navigation.tabs
+    - navigation.top
+    - navigation.expand
+    - content.code.copy
+    - content.tooltips
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+
+nav:
+  - Home: index.md
+  - About: about.md
+  - Experience: experience.md
+  - Skills: skills.md
+  - Projects: projects.md
+  - Contact: contact.md
+
+
+extra_css:
+  - stylesheets/extra.css
+
+extra:
+  social:
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/mahija07/
+    - icon: fontawesome/brands/github
+      link: https://github.com/Mahija07

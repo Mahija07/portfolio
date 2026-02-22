@@ -2,20 +2,19 @@
 
 **Model-Based Developer | MATLAB / Embedded Engineer**
 
-4 years of experience in automotive and power & automation domains.  
-Specialized in MATLAB, Simulink, Stateflow, Embedded C, and AUTOSAR-based development.
+4 years of experience delivering production-quality software in automotive and power & automation domains.
 
 ---
 
-## Core Expertise
-- Model-Based Development (Simulink & Stateflow)
-- Embedded C and code generation
-- AUTOSAR fundamentals
-- Unit testing using Google Test
-- Static analysis using Polyspace
+## Overview
+
+I specialize in model-based software development using MATLAB, Simulink, and Stateflow, with strong experience in embedded C, AUTOSAR fundamentals, and software quality practices. I have contributed to automotive projects for Ford and currently work as a Software Engineer at CAF India in the power and automation domain.
 
 ---
 
-## Professional Summary
+## Technical Focus Areas
 
-Model-Based Developer with 4 years of experience working on production-level automotive and automation software. Hands-on expertise in developing requirement-based models, implementing control logic using Stateflow, and generating compliant embedded C code. Experience working with an automotive OEM (Ford) as a Model-Based Developer and Technical Lead. Currently working at CAF India as a Software Engineer in Power and Automation, delivering reliable and maintainable embedded software solutions.
+- Model-based design and control logic development
+- Embedded software development and code generation
+- Unit testing and static analysis
+- Automotive software workflows and best practices
